@@ -23,8 +23,6 @@ public class SequentialWordsNumbers {
             num++;
             stringBuilder.append(" (" + num + ") ").append(word);
         }
-        return stringBuilder.toString().trim();
     }
-\\
 }
 
